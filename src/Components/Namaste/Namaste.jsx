@@ -20,7 +20,7 @@ const Welcome = () => {
           <img src={wheelLower} alt="wheel" />
         </div>
         <div className="namasteDiv">
-          <h1>Welcome to MK Travel Partner</h1>
+          <h1>Welcome to  Travel Partner</h1>
         </div>
         <div className="wheelUpper">
           <img src={wheelUpper} alt="wheel" />
